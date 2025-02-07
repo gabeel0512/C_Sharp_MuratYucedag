@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35716.79 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "..\CSharpEğitimKamp\02_Variables\02_Variables.csproj", "{39F0FC47-BBE7-4217-B6AA-49738289F3E8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MainSubject", "01_MainSubject\01_MainSubject.csproj", "{C9CCC1DE-E512-4F3F-9FB1-D1770F8769E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders_2", "Ders_2\Ders_2.csproj", "{547D2571-D119-4ECE-9617-4734962BCCD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{39F0FC47-BBE7-4217-B6AA-49738289F3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{39F0FC47-BBE7-4217-B6AA-49738289F3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{39F0FC47-BBE7-4217-B6AA-49738289F3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{39F0FC47-BBE7-4217-B6AA-49738289F3E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C9CCC1DE-E512-4F3F-9FB1-D1770F8769E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C9CCC1DE-E512-4F3F-9FB1-D1770F8769E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9CCC1DE-E512-4F3F-9FB1-D1770F8769E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9CCC1DE-E512-4F3F-9FB1-D1770F8769E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547D2571-D119-4ECE-9617-4734962BCCD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547D2571-D119-4ECE-9617-4734962BCCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547D2571-D119-4ECE-9617-4734962BCCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547D2571-D119-4ECE-9617-4734962BCCD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
