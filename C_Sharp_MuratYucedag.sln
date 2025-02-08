@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35716.79 d17.13
+VisualStudioVersion = 17.13.35716.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MainSubject", "01_MainSubject\01_MainSubject.csproj", "{C9CCC1DE-E512-4F3F-9FB1-D1770F8769E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders_2", "Ders_2\Ders_2.csproj", "{547D2571-D119-4ECE-9617-4734962BCCD1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision", "03_MakingDecision\03_MakingDecision.csproj", "{92B7FCF3-815C-43BD-B04A-038F4966BCB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Donguler", "04_Donguler\04_Donguler.csproj", "{BCD9B06E-9772-4CA8-9D5B-734A326B0D8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{92B7FCF3-815C-43BD-B04A-038F4966BCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92B7FCF3-815C-43BD-B04A-038F4966BCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92B7FCF3-815C-43BD-B04A-038F4966BCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD9B06E-9772-4CA8-9D5B-734A326B0D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD9B06E-9772-4CA8-9D5B-734A326B0D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD9B06E-9772-4CA8-9D5B-734A326B0D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD9B06E-9772-4CA8-9D5B-734A326B0D8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
